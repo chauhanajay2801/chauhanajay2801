@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Ajay Chauhan<br>A passionate frontend developer from India <br>🔭 I’m currently working on NetflixGPT<br>🌱 I’m currently learning MERN stack<br>💬 Ask me about ReactJS
+Hi 👋, I'm Ajay Chauhan<br>A passionate frontend developer from India <br>🔭 I’m currently working on NetflixGPT<br>🌱 I’m currently learning MERN stack<br>💬 Ask me about FrontEnd Development
 
 
 ## 🌐 Socials:
