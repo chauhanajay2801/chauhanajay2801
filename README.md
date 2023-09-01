@@ -6,7 +6,7 @@ Hi 👋, I'm Ajay Chauhan<br>A passionate frontend developer from India <br>🔭
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chauhanajay2801&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chauhanajay2801&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chauhanajay2801&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 [![](https://visitcount.itsvg.in/api?id=ajaychauhan&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
